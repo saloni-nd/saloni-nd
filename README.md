@@ -4,7 +4,6 @@ Currently, I'm juggling a bunch of different roles.
 
 - I'm a researcher at [Our World in Data](https://ourworldindata.org), where I write about global health. 
 - I'm a founding editor of [Works in Progress](https://worksinprogress.co), where I recruit and work with authors for our quarterly magazine. 
-- I'm a contributing editor at [Stripe Press](https://press.stripe.com), where I work on book projects. 
 
 Occasionally, I write about various science topics for online magazines.
 
