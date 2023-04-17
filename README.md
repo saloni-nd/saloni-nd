@@ -1,6 +1,6 @@
 Hi, I'm Saloni :)
 
-- I'm a researcher at [Our World in Data](https://ourworldindata.org), where I work on all things health. 
+- I'm a researcher at [Our World in Data](https://ourworldindata.org), where I work on all things global health. 
 - I'm also a founding editor of [Works in Progress](https://worksinprogress.co), where I recruit and work with authors for our quarterly magazine. 
 
 Occasionally, I write about various science topics for online magazines.
