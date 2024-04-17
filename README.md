@@ -5,7 +5,7 @@ Hi, I'm Saloni :)
 
 Occasionally, I write about various science topics for online magazines.
 
-I have a [Substack newsletter](https://salonium.substack.com) to keep you updated with great new scientific research.
+I have a [Substack newsletter](https://salonium.substack.com) to keep you updated with great new scientific research. I have a [repository] (https://github.com/saloni-nd/scientific-discovery) to share data and code for my Substack.
 
 I recently completed my PhD at The University of Hong Kong and King's College London, where my thesis focused on how differences in study design can influence research findings in the field of psychiatric genetics.
 
