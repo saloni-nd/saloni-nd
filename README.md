@@ -2,7 +2,7 @@ Hi, I'm Saloni :)
  
 - I'm a co-founder and editor at [Works in Progress](https://worksinprogress.co), where I commission new articles on science and global health, lead data visualization, and write articles.
 - I write a blog called [Scientific Discovery](https://www.scientificdiscovery.dev).
-- I co-host a podcast called Hard Drugs.
+- I co-host a podcast called [Hard Drugs](https://harddrugs.worksinprogress.co).
 
 I have a [repository](https://github.com/saloni-nd/scientific-discovery) to share data and code for charts I create for my blog.
 
